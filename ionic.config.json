@@ -1,0 +1,7 @@
+{
+  "name": "secret_friend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
